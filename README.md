@@ -7,7 +7,8 @@ I've combined java/scala/eclipse ignores from github/gitignore [https://github.c
 
 to use
 ======
-1) use the following command from terminal: curl https://raw.github.com/jasonray/gitignore/master/JavaScala.gitignore > .gitignore
+1) use the following command from terminal: 
+`curl https://raw.github.com/jasonray/gitignore/master/JavaScala.gitignore > .gitignore`
 
 OR
 
