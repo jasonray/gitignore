@@ -1,6 +1,16 @@
+# Project structure related
+.classpath
+.project
+.settings
+
+# Build related
+bin
+build
+.gradle
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
